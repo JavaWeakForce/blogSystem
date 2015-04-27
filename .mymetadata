@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mao.graudate.blog"
+  id="myeclipse.1430138096856"
+  context-root="/blogSystem"
+  j2ee-spec="5.0"
+  archive="mao.graudate.blog.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
